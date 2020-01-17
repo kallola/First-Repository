@@ -1,9 +1,6 @@
 package com.javatechie;
 
-/**
- * Hello world!
- *
- */
+
 public class App 
 {
 	public void addData(String data)
@@ -13,6 +10,10 @@ public class App
 		 {
 			 System.out.println("welcome kallola.......");
 		 }
+	}
+	public void method2()
+	{
+		System.out.println("developer2 added this method.......");
 	}
     public static void main( String[] args )
     {
