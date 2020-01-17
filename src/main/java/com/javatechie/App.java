@@ -9,7 +9,7 @@ public class App
 	public void addData(String data)
 	{
 		 System.out.println("Data..."+data);
-		 if(data=="kallola")
+		 if(data==Constant.data)
 		 {
 			 System.out.println("welcome kallola.......");
 		 }
